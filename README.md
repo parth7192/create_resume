@@ -37,12 +37,6 @@ This is a simple resume application designed to help users create professional r
 
 <img src = "https://github.com/parth7192/create_resume/assets/142138451/4ccb3acc-742f-49d1-a44e-d88ea35fb38f" width = "200">
 
-<img src = "https://github.com/parth7192/create_resume/assets/142138451/1fb95443-21d4-4a65-a605-b643487043d8" width = "200">
-
-<img src = "https://github.com/parth7192/create_resume/assets/142138451/1fb95443-21d4-4a65-a605-b643487043d8" width = "200">
-
-<img src = "https://github.com/parth7192/create_resume/assets/142138451/1fb95443-21d4-4a65-a605-b643487043d8" width = "200">
-
 <img src = "https://github.com/parth7192/create_resume/assets/142138451/e2515362-a522-4991-83e1-4a83d0c5bd1a" width = "200">
 
 <img src = "https://github.com/parth7192/create_resume/assets/142138451/a8123f1f-f77b-4fdd-b7a9-79b40fe9152a" width = "200">
