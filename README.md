@@ -58,4 +58,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name](mailto:parthvora1860@gmail.com).
+For any inquiries or feedback, please contact (mailto:parthvora1860@gmail.com).
